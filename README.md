@@ -13,7 +13,7 @@ Several challenges are presented by the data set, including the self-reporting n
 ### Analysis of Outcomes Based on Launch Date
 The numbers of successful and failed theater Kickstarter trend generally together month by month. However, the largest gap increasing chances of success seem to be for those launched in May, while the largest gap increasing the chances of failure occurs for Kickstarters launched in October.
 
-![OutcomesBasedonLaunchDate](OutcomesBasedonLaunchDate.png)
+![TheaterOutcomesvsLaunch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Levels of success appear highest for Kickstarters with goals under $5,000 or between $35,000 and $40,000. For the level planned by the client (approximately $10,000), successes are more likely than failures.
