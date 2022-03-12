@@ -23,6 +23,7 @@ Levels of success appear highest for Kickstarters with goals under $5,000 or bet
 ### Challenges and Difficulties Encountered
 While the data examined provided a fairly comprehensive picture of Kickstarter projects within the specified time frame, some limitations remain. The data set’s provenance and method of creation is unknown, meaning there may have been other pieces of information excluded without the knowledge of the analyst. One particular unknown is the currency conversion process. Specifically, whether the currencies listed have all been converted to US Dollars or remain in quantities in their own currency. The number of goals in currencies other than USD that are round numbers (i.e. 5,000, 10,000, etc.), leads the analyst to believe that these numbers actually represent the amount in the original currency, which may throw off all analysis based on goals. 
 
+#### Examples of Goals in Currencies other than USD
 ![ForeignCurrencyExamples](Foreign_Currency_Examples.png)
 
 Furthermore, outcome information based on launch date and goals has not been controlled for the sample size, which may lead to an outsized estimation of the reliability of data overall.
