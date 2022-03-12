@@ -18,6 +18,8 @@ The numbers of successful and failed theater Kickstarter trend generally togethe
 ### Analysis of Outcomes Based on Goals
 Levels of success appear highest for Kickstarters with goals under $5,000 or between $35,000 and $40,000. For the level planned by the client (approximately $10,000), successes are more likely than failures.
 
+![OutcomesvsGoals](Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 While the data examined provided a fairly comprehensive picture of Kickstarter projects within the specified time frame, some limitations remain. The data set’s provenance and method of creation is unknown, meaning there may have been other pieces of information excluded without the knowledge of the analyst. One particular unknown is the currency conversion process. Specifically, whether the currencies listed have all been converted to US Dollars or remain in quantities in their own currency. The number of goals in currencies other than USD that are round numbers (i.e. 5,000, 10,000, etc.), leads the analyst to believe that these numbers actually represent the amount in the original currency, which may throw off all analysis based on goals. Furthermore, outcome information based on launch date and goals has not been controlled for the sample size, which may lead to an outsized estimation of the reliability of data overall.
 
@@ -25,6 +27,5 @@ While the data examined provided a fairly comprehensive picture of Kickstarter p
 Additional future analyses of interest may include an examination of the length of the Kickstarter from launch to close or an examination of the level of boost received from being featured as a spotlight or staff pick.   
 
 
-![ParentCategoryOutcomes](ParentCategoryOutcomes.png)
 
 
