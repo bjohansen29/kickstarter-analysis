@@ -12,6 +12,7 @@ Several challenges are presented by the data set, including the self-reporting n
 
 ### Analysis of Outcomes Based on Launch Date
 The numbers of successful and failed theater Kickstarter trend generally together month by month. However, the largest gap increasing chances of success seem to be for those launched in May, while the largest gap increasing the chances of failure occurs for Kickstarters launched in October.
+
 ![OutcomesBasedonLaunchDate](OutcomesBasedonLaunchDate.png)
 
 ### Analysis of Outcomes Based on Goals
